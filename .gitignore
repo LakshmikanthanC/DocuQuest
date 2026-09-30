@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# Secrets — never commit these
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Node
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# Runtime data
+chroma_db/*
+!chroma_db/.gitkeep
+documents/*
+!documents/README.md
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
