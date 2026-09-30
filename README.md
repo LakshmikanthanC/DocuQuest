@@ -1,8 +1,28 @@
-# 🤖 AI-Powered RAG Document Assistant
-
+# 📄 DocQuestr — AI-Powered Document Q&A
 An AI-powered **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents and ask questions in natural language.
 
 The system retrieves the most relevant content from the uploaded documents and uses an LLM to generate answers **only from the retrieved context**. Every response includes the **source document, page number, matching snippet, and similarity score** for verification.
+
+---
+<div align="center">
+
+![DocQuestr](https://img.shields.io/badge/DocQuestr-AI%20Document%20Q%26A-blueviolet?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square\&logo=next.js)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square\&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square\&logo=tailwind-css)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square\&logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=flat-square)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF%20Processing-3776AB?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-Embeddings-orange?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-FF6B35?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Llama%203.1-black?style=flat-square\&logo=ollama)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square\&logo=jsonwebtokens)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square\&logo=docker)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=flat-square\&logo=pytest)
+
+</div>
 
 ---
 
